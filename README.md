@@ -1,0 +1,1 @@
+# vital-saas-slack-endpoint
